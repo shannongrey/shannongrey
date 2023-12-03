@@ -7,7 +7,7 @@ During my time at the criminal justice college is when I was first exposed to cy
 
 While I've pursued the Forensic Psychology/Mental Health field with full force, I plan to utilize my already seasoned skills in conjunction with some new technical one's to pave my way into cybersecurity. Having worked in various behavioral crisis settings I've developed familiarity with risk mitigation and complex problem solving, which are fundamental frameworks within cybersecurity. Moreover, being exposed to vulnerable populations of psychiatric patients, I've built a tool of empathy; an ability to one's self into another's shoes. An underrated variable that I believe contributes to any overwhelming success of a cybersecurity professional in order to comprehend how data threats might be created, where vulnerabilities are coming from, and who may be responsible.
 
-Overall I've embarked on a fulfilling journey to transition cybersecurity from merely passion to a career. My path was short of conventional yet, I wouldn't have started any other way! Enjoy roaming around my Github portfolio of projects created to showcase my exposure and skills. Thanks for stopping by!🫧💌
+I've embarked on a fulfilling journey to transition cybersecurity from merely a passion to a career. My path was short of conventional yet, I wouldn't have started any other way! Enjoy roaming around my Github portfolio of projects created to showcase my exposure and skills. Thanks for stopping by!🫧💌
   
 <h2> 👩🏻‍💻 Cybersecurity Projects:</h2>
 
