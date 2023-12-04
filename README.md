@@ -16,7 +16,7 @@ I've embarked on a fulfilling journey to transition cybersecurity from merely a 
   - [Women in Cybersecurity (WiCyS) PICO CTF](https://github.com/shannongrey/Pico-CTF)
   - [Basic Disc Sanitation](https://github.com/shannongrey/Disk-Sanitation-/blob/main/README.md)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me:</h2>
 
  https://www.linkedin.com/in/shannon-grey000/
 <!--
