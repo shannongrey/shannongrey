@@ -23,7 +23,7 @@ I've embarked on a fulfilling journey to transition cyber security from merely a
 
 <h2> 📖 My Study Guides:</h2>
 
-- [Notion](https://www.notion.so/grey-s-study-diary-df04b8a568b3446b85202ed9a281bb7b?pvs=4)
+- [Notion](https://greystudydiary.notion.site/grey-s-study-diary-df04b8a568b3446b85202ed9a281bb7b?pvs=4)
   
 <h2> 🤳 Connect With Me:</h2>
 
