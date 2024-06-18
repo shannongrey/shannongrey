@@ -14,6 +14,7 @@ I've embarked on a fulfilling journey to transition cyber security from merely a
 
   - [Women in Cybersecurity (WiCyS) SANS Cyberstart](https://github.com/shannongrey/SANS-Cyberstart)
   - [Women in Cybersecurity (WiCyS) PICO CTF](https://github.com/shannongrey/Pico-CTF)
+  - [Web Security Academy Labs (Pentesting)](https://github.com/shannongrey/Web-Security-Academy-Labs/tree/main)
   - [Basic Disc Sanitation](https://github.com/shannongrey/Disk-Sanitation-/blob/main/README.md)
   - [Google IT Professional Certification](https://github.com/shannongrey/Google-IT-Certification-/tree/main)
 
